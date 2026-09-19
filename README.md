@@ -55,12 +55,6 @@ I build end-to-end ML & data projects — from raw data to deployed apps and int
 ##  Certifications
 - **IBM Data Engineering Professional Certificate** — [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/VRM31STKIWNP)
 - **IBM Machine Learning Professional Certificate** — [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/H90E6GKVTNCI)
-
-[![IBM Data Engineering](https://img.shields.io/badge/IBM%20Data%20Engineering-052FAD?style=flat&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/VRM31STKIWNP)
-[![IBM Machine Learning](https://img.shields.io/badge/IBM%20Machine%20Learning-9900F0?style=flat&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/H90E6GKVTNCI)
-
-- **IBM Data Engineering Professional Certificate** — Coursera / IBM
-- **IBM Machine Learning Professional Certificate** — Coursera / IBM
 - **CCNA: Introduction to Networks** — Cisco Networking Academy (Princess Nourah University)
 - **Introduction to Data Science in Python** — University of Michigan (Coursera)
 - **Power BI** — Sadr × Tuwaiq Academy
