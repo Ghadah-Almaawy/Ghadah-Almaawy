@@ -48,7 +48,7 @@ I build end-to-end ML & data projects — from raw data to deployed apps and int
 ###  HCI / UX Design
 | Project | Description | Highlights |
 |---|---|---|
-| 🏋️ [Prime Fitness — UX Case Study](https://github.com/[YOUR_GITHUB_USERNAME]/prime-fitness-ux-case-study) | Fitness app designed with HCI principles: challenges, virtual classes, community | Full Figma prototype · usability tested with 5 participants |
+| [Prime Fitness — UX Case Study](https://github.com/Ghadah-Almaawy/Prime-Fitness-HCI-UX-.git) | Fitness app designed with HCI principles: challenges, virtual classes, community | Full Figma prototype · usability tested with 5 participants |
 
 ##  Certifications
 
