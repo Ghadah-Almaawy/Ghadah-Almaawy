@@ -4,7 +4,7 @@
 
 **Data Science Student at Princess Nourah bint Abdulrahman University**
 
-I build end-to-end ML & data projects — from raw data to deployed apps and interactive dashboards.
+I build end to end ML & data projects — from raw data to deployed apps and interactive dashboards.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghadah-a-5952a8344/)
@@ -39,8 +39,8 @@ I build end-to-end ML & data projects — from raw data to deployed apps and int
 ###  Big Data & Business Intelligence
 | Project | Description | Highlights |
 |---|---|---|
-|  [Electricity Consumption Analysis](https://github.com/Ghadah-Almaawy/electricity_consumption_analysis.git) | Big-data analysis of London Smart Meters using **PySpark** | Compared Linear Regression, Random Forest & GBT |
-|  [Stocks & Economic Indicators Dashboard](https://github.com/Ghadah-Almaawy/Stocks-Economic-Indicators-Dashboard-.git) | Interactive Power BI dashboard linking Saudi stock data with global economic indicators | 4 pages · DAX-driven investment recommendations |
+|  [Electricity Consumption Analysis](https://github.com/Ghadah-Almaawy/electricity_consumption_analysis.git) | Big data analysis of London Smart Meters using **PySpark** | Compared Linear Regression, Random Forest & GBT |
+|  [Stocks & Economic Indicators Dashboard](https://github.com/Ghadah-Almaawy/Stocks-Economic-Indicators-Dashboard-.git) | Interactive Power BI dashboard linking Saudi stock data with global economic indicators | 4 pages · DAX driven investment recommendations |
 
 ###  Statistical Analysis
 | Project | Description | Highlights |
