@@ -16,10 +16,14 @@ I build end-to-end ML & data projects — from raw data to deployed apps and int
 ##  Skills
 
 **Languages & Tools:** Python · R · SQL · PySpark · DAX
+
 **ML / Data Science:** scikit-learn · XGBoost · TensorFlow/Keras · Pandas · NumPy · Feature Engineering · Model Tuning
+
 **BI & Visualization:** Power BI · Matplotlib · Seaborn
+
 **Deployment:** Streamlit
-**Other:** Git & GitHub · Jupyter · Data Cleaning & EDA
+
+**Other:** Git & GitHub · Jupyter · Data Cleaning & EDA · Figma
 
 ##  Featured Projects
 
