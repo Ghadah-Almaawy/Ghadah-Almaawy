@@ -2,12 +2,14 @@
 
 # Hi, I'm Ghadah ALmaawy
 
-**Data Science Student @ Princess Nourah bint Abdulrahman University**
+**Data Science Student at Princess Nourah bint Abdulrahman University**
 
 I build end-to-end ML & data projects — from raw data to deployed apps and interactive dashboards.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghadah-a-5952a8344/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ghadah-a-5952a8344/])
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[GhadahAlmaawy@hotmail.com])
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:GhadahAlmaawy@gmail.com)
+
 
 </div>
 
