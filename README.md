@@ -34,7 +34,7 @@ I build end-to-end ML & data projects — from raw data to deployed apps and int
 | Project | Description | Highlights |
 |---|---|---|
 |  [Electricity Consumption Analysis](https://github.com/Ghadah-Almaawy/electricity_consumption_analysis.git) | Big-data analysis of London Smart Meters using **PySpark** | Compared Linear Regression, Random Forest & GBT |
-|  [Stocks & Economic Indicators Dashboard](https://github.com/[YOUR_GITHUB_USERNAME]/stocks-economy-dashboard) | Interactive Power BI dashboard linking Saudi stock data with global economic indicators | 4 pages · DAX-driven investment recommendations |
+|  [Stocks & Economic Indicators Dashboard](https://github.com/Ghadah-Almaawy/Stocks-Economic-Indicators-Dashboard-.git) | Interactive Power BI dashboard linking Saudi stock data with global economic indicators | 4 pages · DAX-driven investment recommendations |
 
 ###  Statistical Analysis
 | Project | Description | Highlights |
