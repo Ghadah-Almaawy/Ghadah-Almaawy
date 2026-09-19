@@ -56,7 +56,7 @@ I build end-to-end ML & data projects — from raw data to deployed apps and int
 
 ##  Connect with me
 
-- LinkedIn: [YOUR_LINKEDIN_URL]
+- LinkedIn: [www.linkedin.com/in/ghadah-a-5952a8344]
 - Email: [YOUR_EMAIL]
 
 ---
