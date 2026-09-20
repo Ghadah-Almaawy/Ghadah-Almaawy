@@ -33,7 +33,7 @@ I build end to end ML & data projects — from raw data to deployed apps and int
 | Project | Description | Highlights |
 |---|---|---|
 |  [Eye Strain Prediction](https://github.com/Ghadah-Almaawy/Eye-Strain-prediction.git) | ML model predicting digital eye strain from device usage habits | 76.7% accuracy · deployed live with **Streamlit** |
-|  [Maternal Health Risk Classification](https://github.com/[YOUR_GITHUB_USERNAME]/maternal-health-risk-classification) | Classifies pregnant women into health risk levels from physiological data | Compared 6 models (KNN, NB, RF, DT, SVM, ANN) · **77.6%** accuracy with Random Forest |
+|  [Maternal Health Risk Classification](https://github.com/Ghadah-Almaawy/Maternal_health_risk_classification-.git) | Classifies pregnant women into health risk levels from physiological data | Compared 6 models (KNN, NB, RF, DT, SVM, ANN) · **77.6%** accuracy with Random Forest |
 |  [Coupon Campaign Revenue Prediction](https://github.com/Ghadah-Almaawy/coupon-campaign-revenue-prediction.git) | Predicts promotional campaign revenue from configuration & branch history | **R² = 0.88** with tuned XGBoost, solo project |
 
 ###  Big Data & Business Intelligence
