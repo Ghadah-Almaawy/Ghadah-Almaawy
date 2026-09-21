@@ -45,7 +45,7 @@ I build end to end ML & data projects — from raw data to deployed apps and int
 ###  Statistical Analysis
 | Project | Description | Highlights |
 |---|---|---|
-|  [Factors Affecting Dropout Rate](https://github.com/[YOUR_GITHUB_USERNAME]/factors-affecting-dropout-rate) | Statistical analysis of school-level factors vs. student dropout rate (R) | Rigorous, honestly-reported null result via regression & ANOVA |
+|  [Factors Affecting Dropout Rate](https://github.com/Ghadah-Almaawy/factors_affecting_dropout_rate.git) | Statistical analysis of school-level factors vs. student dropout rate (R) | Rigorous, honestly-reported null result via regression & ANOVA |
 
 ###  HCI / UX Design
 | Project | Description | Highlights |
