@@ -32,7 +32,7 @@ I build end to end ML & data projects — from raw data to deployed apps and int
 ###  Machine Learning
 | Project | Description | Highlights |
 |---|---|---|
-|  [Eye Strain Prediction](https://github.com/Ghadah-Almaawy/Eye-Strain-prediction.git) | ML model predicting digital eye strain from device usage habits | 76.7% accuracy · deployed live with **Streamlit** |
+|  [Eye Strain Prediction](https://github.com/Ghadah-Almaawy/Eye-Strain-prediction.git)| ML model predicting digital eyestrain from device usage habits | 76.7% accuracy · deployed as a live interactive app |
 |  [Maternal Health Risk Classification](https://github.com/Ghadah-Almaawy/Maternal_health_risk_classification-.git) | Classifies pregnant women into health risk levels from physiological data | Compared 6 models (KNN, NB, RF, DT, SVM, ANN) · **77.6%** accuracy with Random Forest |
 |  [Coupon Campaign Revenue Prediction](https://github.com/Ghadah-Almaawy/coupon-campaign-revenue-prediction.git) | Predicts promotional campaign revenue from configuration & branch history | **R² = 0.88** with tuned XGBoost, solo project |
 
