@@ -6,7 +6,7 @@
 
 I build end to end data projects: from messy raw data to validated models, deployed apps, and interactive dashboards.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghadah-a-5952a8344/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghadah-almaawy/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:GhadahAlmaawy@hotmail.com)
 
 </div>
