@@ -79,7 +79,7 @@ Four-page Power BI dashboard linking Saudi stock data with economic indicators.
 - [**IBM Data Engineering Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/VRM31STKIWNP)
 - [**IBM Machine Learning Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/H90E6GKVTNCI)
 - **Introduction to Data Science in Python** · University of Michigan (Coursera)
-- **Power BI** · Sadr × Tuwaiq Academy
+- **Power BI** · Satr × Tuwaiq Academy
 - **CCNA: Introduction to Networks** · Cisco Networking Academy
 
 ---
