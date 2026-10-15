@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ghadah ALmaawy
+# Hi, I'm Ghadah Almaawy
 
 **Data Science Student at Princess Nourah bint Abdulrahman University**
 
@@ -8,7 +8,7 @@ I build end to end ML & data projects — from raw data to deployed apps and int
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghadah-a-5952a8344/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:GhadahAlmaawy@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:GhadahAlmaawy@hotmail.com)
 
 
 </div>
@@ -21,6 +21,8 @@ I build end to end ML & data projects — from raw data to deployed apps and int
 
 **ML / Data Science:** scikit-learn · XGBoost · TensorFlow/Keras · Pandas · NumPy · Feature Engineering · Model Tuning
 
+**Statistics:** Hypothesis Testing · Regression · Difference-in-Differences · Time Series Forecasting
+
 **BI & Visualization:** Power BI · Matplotlib · Seaborn
 
 **Deployment:** Streamlit
@@ -32,25 +34,15 @@ I build end to end ML & data projects — from raw data to deployed apps and int
 ###  Machine Learning
 | Project | Description | Highlights |
 |---|---|---|
-|  [Eye Strain Prediction](https://github.com/Ghadah-Almaawy/Eye-Strain-prediction.git)| ML model predicting digital eyestrain from device usage habits | 76.7% accuracy · deployed as a live interactive app |
-|  [Maternal Health Risk Classification](https://github.com/Ghadah-Almaawy/Maternal_health_risk_classification-.git) | Classifies pregnant women into health risk levels from physiological data | Compared 6 models (KNN, NB, RF, DT, SVM, ANN) · **77.6%** accuracy with Random Forest |
-|  [Coupon Campaign Revenue Prediction](https://github.com/Ghadah-Almaawy/coupon-campaign-revenue-prediction.git) | Predicts promotional campaign revenue from configuration & branch history | **R² = 0.88** with tuned XGBoost, solo project |
+|  [Eye Strain Prediction](https://github.com/Ghadah-Almaawy/Eye-Strain-prediction)| ML model predicting digital eyestrain from device usage habits | **76.7%** accuracy vs 68.5% baseline · [live interactive app](https://ghadah-eye-strain.streamlit.app/) |
+|  [Maternal Health Risk Prediction](https://github.com/Ghadah-Almaawy/maternal-health-risk-prediction) | Predicts pregnancy risk level (low / mid / high) from six vital signs | Found **55% duplicate records** inflating scores · grouped cross validation · high risk precision **1.00**, solo project |
+|  [Coupon Campaign Revenue Prediction](https://github.com/Ghadah-Almaawy/coupon-campaign-revenue-prediction) | Predicts promotional campaign revenue from configuration & branch history | **R² = 0.956** with XGBoost · validated on future campaigns, solo project |
 
 ###  Big Data & Business Intelligence
 | Project | Description | Highlights |
 |---|---|---|
-|  [Electricity Consumption Analysis](https://github.com/Ghadah-Almaawy/electricity_consumption_analysis.git) | Big data analysis of London Smart Meters using **PySpark** | Compared Linear Regression, Random Forest & GBT |
-|  [Stocks & Economic Indicators Dashboard](https://github.com/Ghadah-Almaawy/Stocks-Economic-Indicators-Dashboard-.git) | Interactive Power BI dashboard linking Saudi stock data with global economic indicators | 4 pages · DAX driven investment recommendations |
-
-###  Statistical Analysis
-| Project | Description | Highlights |
-|---|---|---|
-|  [Factors Affecting Dropout Rate](https://github.com/Ghadah-Almaawy/factors_affecting_dropout_rate.git) | Statistical analysis of school-level factors vs. student dropout rate (R) | Rigorous, honestly-reported null result via regression & ANOVA |
-
-###  HCI / UX Design
-| Project | Description | Highlights |
-|---|---|---|
-| [Prime Fitness — UX Case Study](https://github.com/Ghadah-Almaawy/Prime-Fitness-HCI-UX-.git) | Fitness app designed with HCI principles: challenges, virtual classes, community | Full Figma prototype · usability tested with 5 participants |
+|  [London Electricity Demand Forecasting](https://github.com/Ghadah-Almaawy/london-electricity-demand-forecasting) | Day-ahead forecast of London household electricity demand using **PySpark** | **167.8M** smart meter readings · **3.3% MAPE** with Gradient Boosting · time-of-use pricing tested with difference-in-differences, solo project |
+|  [Stocks & Economic Indicators Dashboard](https://github.com/Ghadah-Almaawy/Stocks-Economic-Indicators-Dashboard-) | Interactive Power BI dashboard linking Saudi stock data with global economic indicators | 4 pages · DAX driven investment recommendations |
 
 ##  Certifications
 - [**IBM Data Engineering Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/VRM31STKIWNP)
@@ -61,8 +53,8 @@ I build end to end ML & data projects — from raw data to deployed apps and int
 
 ##  Connect with me
 
-- LinkedIn: [www.linkedin.com/in/ghadah-a-5952a8344]
-- Email: [GhadahAlmaawy@hotmail.com]
+- LinkedIn: [www.linkedin.com/in/ghadah-a-5952a8344](https://www.linkedin.com/in/ghadah-a-5952a8344/)
+- Email: [GhadahAlmaawy@hotmail.com](mailto:GhadahAlmaawy@hotmail.com)
 
 ---
 <div align="center">
