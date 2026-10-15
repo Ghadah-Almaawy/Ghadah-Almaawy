@@ -15,10 +15,10 @@ I build end to end data projects: from messy raw data to validated models, deplo
 
 ## About Me
 
-- 🎓 Data Science student at Princess Nourah bint Abdulrahman University
-- 🔍 I care about evaluating models honestly: catching data leakage, duplicates, and misleading metrics before trusting a score
-- 📊 Experienced across the full workflow: data cleaning, big data processing, machine learning, statistics, BI dashboards, and deployment
-- 📫 Reach me at **GhadahAlmaawy@hotmail.com**
+- Data Science student at Princess Nourah bint Abdulrahman University
+- I care about evaluating models honestly: catching data leakage, duplicates, and misleading metrics before trusting a score
+- Experienced across the full workflow: data cleaning, big data processing, machine learning, statistics, BI dashboards, and deployment
+- Reach me at **GhadahAlmaawy@hotmail.com**
 
 ## Tech Stack
 
